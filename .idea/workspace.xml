@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4116245-77ed-4f4b-8463-2ece51bd7e34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a4116245-77ed-4f4b-8463-2ece51bd7e34" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/pizza_1/api/ExoticPizza.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -302,12 +300,12 @@
       <option name="presentableId" value="Default" />
       <updated>1566408876952</updated>
       <workItem from="1566408881527" duration="5460000" />
-      <workItem from="1566488254514" duration="402000" />
+      <workItem from="1566488254514" duration="699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5862000" />
+    <option name="totallyTimeSpent" value="6159000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -438,7 +436,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/pizza_1/api/ExoticPizza.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
