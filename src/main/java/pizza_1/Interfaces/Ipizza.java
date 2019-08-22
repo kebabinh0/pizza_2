@@ -4,4 +4,6 @@ public interface Ipizza
 {
     int getPrice();
     String getName();
+
+    void setPrice(int i);
 }

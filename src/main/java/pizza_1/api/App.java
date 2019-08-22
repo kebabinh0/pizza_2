@@ -14,6 +14,8 @@ public class App
         ApplicationContext context = new AnnotationConfigApplicationContext(autoCofnig.class);
         IOrder order = context.getBean(IOrder.class);
         order.printOrder();
+        IOrder order2 = context.getBean(Order.class);
+        order2.printOrder();
 
 
 

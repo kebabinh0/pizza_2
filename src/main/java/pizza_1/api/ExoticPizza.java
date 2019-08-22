@@ -7,7 +7,6 @@ import pizza_1.Interfaces.Ipizza;
 
 
 @Component
-@GoodPizza
 public class ExoticPizza implements Ipizza
 {
     private int price;
@@ -26,8 +25,15 @@ public class ExoticPizza implements Ipizza
         return price;
     }
 
+
+
     public String getName()
     {
         return name;
+    }
+
+    public void setPrice(int price)
+    {
+        this.price=price;
     }
 }
